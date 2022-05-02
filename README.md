@@ -1,2 +1,3 @@
 # SeaWar
-Console sea war Java
+Console sea war for 2 players
+Java
